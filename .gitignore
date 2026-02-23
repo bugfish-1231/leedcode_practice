@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- C ---
+*.o
+*.obj
+*.exe
+*.out
+*.app
+# 忽略編譯產生的除錯資料夾 (例如 VS Code 產生的)
+.vscode/
+build/
