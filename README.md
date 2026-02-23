@@ -11,9 +11,9 @@ Data Structures &amp; Algorithms implementation and LeetCode solutions in Python
 **核心觀念**：Big O Notation、記憶體連續性 (Array) vs 指標連結 (Linked List)。
 
 | 題目編號 | 題目名稱 | 難度 | C 解法 | 核心技巧 / Tag | 完成日期 |
-| :--- | :--- | :---: | :---: | :---: | :--- | :---: |
+| :--- | :--- | :---: | :---: | :--- | :---: |
 | #217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [Link](./1_week/217_Contains_Duplicate/solution.cpp) | Hash Set / Array | YYYY-MM-DD |
 | #1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Link](./1_week/001_Two_Sum/solution.cpp) | Hash Map / Array | 20260223 |
-| #206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | [Link](./1_week/206_Reverse_Linked_List/solution.cpp) |  Pointers / Linked List | |
+| #206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | [Link](./1_week/206_Reverse_Linked_List/solution.cpp) | Pointers / Linked List | YYYY-MM-DD |
 
 ---
