@@ -12,8 +12,8 @@ Data Structures &amp; Algorithms implementation and LeetCode solutions in Python
 
 | 題目編號 | 題目名稱 | 難度 | C 解法 | 核心技巧 / Tag | 完成日期 |
 | :--- | :--- | :---: | :---: | :--- | :---: |
-| #169 | [majority-element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | [Link](./1_week/169_Majority_Element/solution.cpp) | Boyer-Moore Voting Algorithm |20260311 |
+| #169 | [majority-element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | [Link](./2_week/169_Majority_Element/solution.cpp) | Boyer-Moore Voting Algorithm |20260311 |
 | #1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Link](./1_week/001_Two_Sum/solution.cpp) | Hash Map / Array | 20260223 |
-| #206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | [Link](./1_week/206_Reverse_Linked_List/solution.cpp) | Pointers / Linked List | YYYY-MM-DD |
+| #48 | [rotate-image](https://leetcode.com/problems/rotate-image/) | 🟢 Easy | [Link](./2_week/048_Rotate_Image/solution.cpp) | 2D Array / Matrix | 20260311 |
 
 ---
